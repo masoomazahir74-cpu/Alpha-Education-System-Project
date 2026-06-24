@@ -1,41 +1,23 @@
-Hi, I'm Masooma Batool 👋
+Hi, I'm Amina Batool 
 
 Full-Stack Web Developer
 
-Passionate web developer with experience building scalable, responsive, and user-focused applications. I enjoy turning complex problems into clean, efficient solutions.
+Passionate about building responsive, user-friendly web applications and solving real-world problems with clean, efficient code.
 
- About Me
-- Web Developer specializing in modern web technologies
-- Currently learning: Full Stack web development
-- Working on: Alpha Educational Society
-- Interested in: Frontend, Backend, Cloud, DevOps
-- Location:Quetta, Pakistan
+About Me
+ Full-Stack Web Developer
+ Currently learning advanced web development
+ Working on Alpha Educational Society
+ Interested in Frontend, Backend, Cloud & DevOps
+ Quetta, Pakistan
+Tech Stack
 
- Tech Stack
+Frontend: HTML5, CSS3, JavaScript, TypeScript, React
+Backend: Node.js, Express.js, Laravel, REST APIs
+Database: MySQL
+Tools: Git
 
-Frontend
-- HTML5
-- CSS3 / Sass
-- JavaScript (ES6+)
-- TypeScript
-- React
-
-
-Backend
-- Node.js
-- Express.js
-- REST APIs
-- laravel
-
-
-Database
-- MySQL
-
-Tools & Platforms**
-- Git
-
-
- 📈 GitHub Stats
+  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 Featured Projects
